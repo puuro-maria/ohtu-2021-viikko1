@@ -20,6 +20,8 @@ jobs:
         run: pip install poetry
       - name: Install Coverage
         run: pip install coverage
+      - name: Install pytest
+        run: pip install pytest
       - name: Install dependencies
         run: poetry install
       - name: Run tests
