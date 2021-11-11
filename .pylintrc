@@ -1,6 +1,6 @@
 [MASTER]
 
-ignore=tests,index.py
+ignore=tests,index.py,varasto_test.py
 
 [MESSAGE CONTROL]
 
